@@ -37,7 +37,7 @@
     "ioredis": "5.2.4",
     "jquery.json-viewer": "1.5.0",
     "jsonwebtoken": "8.5.1",
-    "jstree": "3.3.12",
+    "jstree": "3.3.14",
     "lodash.isequal": "4.5.0",
     "lossless-json": "2.0.4",
     "node-redis-dump2": "0.5.0",
